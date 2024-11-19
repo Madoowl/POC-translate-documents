@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "POC_translate_documents": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7216",
+      "launchBrowser": false
+    }
+  }
+}
